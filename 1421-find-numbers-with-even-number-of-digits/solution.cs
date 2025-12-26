@@ -1,16 +1,12 @@
 public class Solution {
     public int FindNumbers(int[] nums) {
-        int count = 0;
-        for(int i=0; i < nums.Length; i++){
-            int j = 0;
-            while(nums[i] > 0){
-                nums[i] /= 10;
-                j++;
-            }
-            if(j % 2 == 0){
-                count++;
-            }
+        int numCount = 0;
+        for(int i = 0; i < nums.Length; i++)
+        {
+            string num = nums[i].ToString();
+            if(num.Length % 2 == 0)
+                numCount ++; 
         }
-        return count;
+        return numCount;
     }
 }
