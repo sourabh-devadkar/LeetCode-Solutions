@@ -1,20 +1,20 @@
 public class Solution {
     public int FindMaxConsecutiveOnes(int[] nums) {
-        int max = 0;
-        int currentCount = 0;
-        foreach(int i in nums){
-            if(i == 1){
-                currentCount++;
-                if(max < currentCount){
-                    max = currentCount;
-                }
-            }else{
-                if(max < currentCount){
-                    max = currentCount;
-                }
-                currentCount = 0;
+        int maxCount = 0;
+        int temp = 0;
+        foreach(int iCtr in nums)
+        {
+            if(iCtr == 1)
+                temp++;
+            else if(iCtr == 0)
+            {
+                if(temp > maxCount)
+                    maxCount = temp;
+                temp = 0;
             }
         }
-        return max;
+        if(temp > maxCount)
+            maxCount = temp;
+        return maxCount;
     }
 }
