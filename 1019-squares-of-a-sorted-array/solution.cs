@@ -1,19 +1,25 @@
 public class Solution {
     public int[] SortedSquares(int[] nums) {
-        int left = 0;
-        int right = nums.Length - 1;
-        int[] output = new int[nums.Length];
-        int i = nums.Length - 1;
-        while(i >= 0){
-            if(Math.Abs(nums[left]) > Math.Abs(nums[right])){
-                output[i] = nums[left] * nums[left];
-                left++;
-            }else{
-                output[i] = nums[right] * nums[right];
-                right--;
-            }
-            i--;
+        int i = 0;
+        int j = nums.Length - 1;
+        int position = nums.Length - 1;
+        int[] result = new int[nums.Length];
+        while(i <= j)
+        {
+           int leftSquare = nums[i] * nums[i];
+           int rightSquare = nums[j] * nums[j];
+           if(leftSquare > rightSquare)
+           {
+                result[position] = leftSquare;
+                i++;
+           }
+           else
+           {
+                result[position] = rightSquare;
+                j--;
+           }
+           position--;
         }
-        return output;
+        return result;
     }
 }
