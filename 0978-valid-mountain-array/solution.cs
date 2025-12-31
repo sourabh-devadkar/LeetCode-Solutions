@@ -1,22 +1,24 @@
 public class Solution {
     public bool ValidMountainArray(int[] arr) {
-        int n = arr.Length;
-        if(n < 3) return false;
-        int max = 0;
-        bool increase = false;
-        bool decrease = false;
-        for (int i=0; i<n-1; i++){
-            if(arr[i] < arr[i+1] && arr[i+1] > max && (!decrease || increase)){
-                max = arr[i+1];
-            }else if(arr[i]> arr[i+1] && max > arr[i+1]){
-                increase = false;
-                decrease = true;
-            }else{
-                return false;
+        bool upPointer = true;
+        bool downPointer = false;
+        for(int i = 1; i < arr.Length; i++)
+        {
+            if(upPointer && arr[i - 1] < arr[i])
+            {
+                downPointer = true;
             }
+            else if(downPointer && arr[i - 1] > arr[i])
+            {
+                upPointer = false;
+                continue;
+            }
+            else
+                return false;
+                
         }
-        if(decrease && !increase)
-        return true;
+        if(!upPointer)
+            return true;
         else
             return false;
     }
