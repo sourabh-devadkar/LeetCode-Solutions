@@ -44,6 +44,7 @@ GitHub Repo for LeetCode Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
