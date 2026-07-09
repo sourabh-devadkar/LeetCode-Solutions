@@ -7,6 +7,7 @@ GitHub Repo for LeetCode Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -64,6 +65,7 @@ GitHub Repo for LeetCode Problem Solutions
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Two Pointers
