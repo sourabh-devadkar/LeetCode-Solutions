@@ -4,17 +4,12 @@ public class Solution {
         int maxLength = 0;
         foreach(int num in nums)
         {
-            if(uniqueSet.Contains(num - 1)) 
-                continue;
+            if(uniqueSet.Contains(num - 1)) continue;
 
             int length = 0;
-            while(uniqueSet.Contains(num + length))
-            {
-                length++;
-            }
+            while(uniqueSet.Contains(num + length)) length++;
 
-            if(length > maxLength)
-                maxLength = length;
+            if(length > maxLength) maxLength = length;
         }
 
         return maxLength;
