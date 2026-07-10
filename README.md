@@ -7,6 +7,7 @@ GitHub Repo for LeetCode Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -33,6 +34,7 @@ GitHub Repo for LeetCode Problem Solutions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0268-missing-number](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Sliding Window
@@ -72,4 +74,8 @@ GitHub Repo for LeetCode Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1768-merge-strings-alternately](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
