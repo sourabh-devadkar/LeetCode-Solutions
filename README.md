@@ -14,6 +14,7 @@ GitHub Repo for LeetCode Problem Solutions
 | [1288-remove-covered-intervals](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ GitHub Repo for LeetCode Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -82,5 +84,6 @@ GitHub Repo for LeetCode Problem Solutions
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
