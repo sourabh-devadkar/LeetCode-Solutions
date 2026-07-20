@@ -11,6 +11,7 @@ GitHub Repo for LeetCode Problem Solutions
 | [0238-product-of-array-except-self](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [1260-shift-2d-grid](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -71,6 +72,7 @@ GitHub Repo for LeetCode Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [1260-shift-2d-grid](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +102,8 @@ GitHub Repo for LeetCode Problem Solutions
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 <!---LeetCode Topics End-->
