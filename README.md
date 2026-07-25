@@ -113,4 +113,8 @@ GitHub Repo for LeetCode Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0511-game-play-analysis-i](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
