@@ -117,4 +117,5 @@ GitHub Repo for LeetCode Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0511-game-play-analysis-i](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 <!---LeetCode Topics End-->
