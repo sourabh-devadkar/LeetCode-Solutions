@@ -121,6 +121,7 @@ GitHub Repo for LeetCode Problem Solutions
 | [0511-game-play-analysis-i](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0607-sales-person](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0607-sales-person/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
