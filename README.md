@@ -124,6 +124,7 @@ GitHub Repo for LeetCode Problem Solutions
 | [0607-sales-person](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0619-biggest-single-number/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
