@@ -13,6 +13,7 @@ GitHub Repo for LeetCode Problem Solutions
 | [0304-range-sum-query-2d-immutable](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1260-shift-2d-grid](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -27,6 +28,7 @@ GitHub Repo for LeetCode Problem Solutions
 | ------- | ------- |
 | [0268-missing-number](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
@@ -119,4 +121,8 @@ GitHub Repo for LeetCode Problem Solutions
 | [0511-game-play-analysis-i](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
