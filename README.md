@@ -129,6 +129,7 @@ GitHub Repo for LeetCode Problem Solutions
 | [0627-swap-sex-of-employees](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1075-project-employees-i](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1075-project-employees-i/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1084-sales-analysis-iii/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
