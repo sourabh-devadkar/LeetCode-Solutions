@@ -24,6 +24,7 @@ GitHub Repo for LeetCode Problem Solutions
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@ GitHub Repo for LeetCode Problem Solutions
 | [1288-remove-covered-intervals](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
@@ -42,6 +44,7 @@ GitHub Repo for LeetCode Problem Solutions
 | [1768-merge-strings-alternately](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -51,6 +54,7 @@ GitHub Repo for LeetCode Problem Solutions
 | [0128-longest-consecutive-sequence](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0268-missing-number](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,5 +145,6 @@ GitHub Repo for LeetCode Problem Solutions
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sourabh-devadkar/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
